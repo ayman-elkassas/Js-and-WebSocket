@@ -1,0 +1,16 @@
+E:\webSocket\webSocket\bin\Debug\webSocket.exe.config
+E:\webSocket\webSocket\bin\Debug\webSocket.exe
+E:\webSocket\webSocket\bin\Debug\webSocket.pdb
+E:\webSocket\webSocket\bin\Debug\websocket-sharp.dll
+E:\webSocket\webSocket\bin\Debug\websocket-sharp.xml
+E:\webSocket\webSocket\obj\Debug\webSocket.csprojAssemblyReference.cache
+E:\webSocket\webSocket\obj\Debug\webSocket.Form1.resources
+E:\webSocket\webSocket\obj\Debug\webSocket.Properties.Resources.resources
+E:\webSocket\webSocket\obj\Debug\webSocket.csproj.GenerateResource.cache
+E:\webSocket\webSocket\obj\Debug\webSocket.csproj.CoreCompileInputs.cache
+E:\webSocket\webSocket\obj\Debug\webSocket.csproj.CopyComplete
+E:\webSocket\webSocket\obj\Debug\webSocket.exe
+E:\webSocket\webSocket\obj\Debug\webSocket.pdb
+G:\webSocket Exe\webSocket\bin\Debug\webSocket.exe.config
+G:\webSocket Exe\webSocket\obj\Debug\webSocket.exe
+G:\webSocket Exe\webSocket\obj\Debug\webSocket.pdb
